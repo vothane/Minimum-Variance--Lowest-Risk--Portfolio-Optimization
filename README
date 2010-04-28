@@ -1,0 +1,3 @@
+Solves the problem of finding the best way to allocate funds among different assets in a investment portfolio. This optimal allocation of funds will give us the 
+lowest risk for a given desired percentage return of the portfolio desired by the investor. While any given desired return will have a set of practically infinite 
+allocation combinations. This ruby code will give the combination with the lowest possible risk.
